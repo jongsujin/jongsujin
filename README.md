@@ -13,4 +13,5 @@
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 # My Stats
+[![jongsujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongsujin)](https://github.com/jongsujin/github-readme-stats)
 [![jongsujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongsujin&hide=contribs,prs&show_icons=true&theme=blue)](https://github.com/jongsujin/github-readme-stats) <a href="https://github.com/imysh578"><img  style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord" /></a> 
