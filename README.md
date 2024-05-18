@@ -2,7 +2,7 @@
 
 # About Me
  - My name is <b>Jongsu Jin</b>
- - DKU Student , <b>Front-End</b>
+ - DKU Student , BIOMATZ <b>Front-End Developer</b>
  - My Blog : https://november-itstime.tistory.com/
  - My Email : jjs9836@naver.com
 # Stack
