@@ -3,7 +3,7 @@
 # About Me
  - My name is <b>Jongsu Jin</b>
  - DKU Student , BIOMATZ <b>Front-End Developer</b>
- - My Blog : https://november-itstime.tistory.com/ , https://fantajin.com
+ - My Blog : https://fantajin.com,  https://november-itstime.tistory.com/
  - My Email : jjs9836@naver.com
 # Stack
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-component" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" alt="tailwind" /> [![emotion](https://img.shields.io/badge/Emotion-D36AC2?style=for-the-badge&logo=npm&logoColor=white)](https://emotion.sh/docs/introduction)
