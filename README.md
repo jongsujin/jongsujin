@@ -2,7 +2,7 @@
 
 # About Me
  - My name is <b>Jongsu Jin</b>
- - DKU Student , BIOMATZ <b>Front-End Developer</b>
+ - BIOMATZ <b>Front-End Developer</b>
  - My Blog : https://fantajin.com,  https://november-itstime.tistory.com/
  - My Email : jjs9836@naver.com
  - My LinkedIn : https://www.linkedin.com/in/jongsu-jin-723550332/
