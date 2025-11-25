@@ -20,7 +20,5 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=OpenAI&logoColor=white">
 
 # My Stats
-[![jongsujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongsujin)](https://github.com/jongsujin/github-readme-stats)
-<a href="https://github.com/imysh578"><img  style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord" /></a> 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jjs9836)](https://solved.ac/jjs9836)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jjs9836)](https://solved.ac/jjs9836)
