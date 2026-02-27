@@ -9,7 +9,7 @@
 # Career
  - 2024.03 ~ 2024.07 : BIOMATZ, Frontend Developer
  - 2024.07 ~ 2026.02 : BIOMATZ, Fullstack Developer
- - 2026.03 ~ : 온라이브플러스, Backend Developer
+ - 2026.03 ~ : (주)온라이브플러스, Backend Developer
 # Stack
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"> 
