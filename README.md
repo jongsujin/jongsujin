@@ -3,7 +3,7 @@
 # About Me
  - My name is <b>Jongsu Jin</b>
  - Dankook University, SW융합학부
- - My Blog : https://fantajin.com,  https://november-itstime.tistory.com/
+ - My Blog : https://fantajin.com
  - My Email : jjs9836@naver.com
  - My LinkedIn : https://www.linkedin.com/in/jongsu-jin-723550332/
 # Career
