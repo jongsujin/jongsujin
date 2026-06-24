@@ -7,7 +7,7 @@
  - My Email : jjs9836@naver.com
  - My LinkedIn : https://www.linkedin.com/in/jongsu-jin-723550332/
 # Career
- - 2026.03 ~ : Onliveplus, Software Engineer
+ - 2026.03 ~ : 온라이브플러스, Software Engineer
  - 2024.07 ~ 2026.02 : BIOMATZ, Fullstack Developer
  - 2024.03 ~ 2024.07 : BIOMATZ, Frontend Developer
 
