@@ -29,6 +29,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [사내 클로드코드 플러그인 구축 일지](https://www.fantajin.com/blog/%EC%82%AC%EB%82%B4-%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%9D%BC%EC%A7%80)
 - [Sentry 도입 일지](https://www.fantajin.com/blog/sentry-%EB%8F%84%EC%9E%85-%EC%9D%BC%EC%A7%80)
 - [RAG 구현 기록](https://www.fantajin.com/blog/rag-%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%A1%9D)
 - [2026년 2월, 첫 이직을 하며](https://www.fantajin.com/blog/%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80%EA%B0%80)
