@@ -34,7 +34,6 @@
 - [RAG 구현 기록](https://www.fantajin.com/blog/rag-%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%A1%9D)
 - [2026년 2월, 첫 이직을 하며](https://www.fantajin.com/blog/%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80%EA%B0%80)
 - [프론트엔드 Storybook 배포](https://www.fantajin.com/blog/frontend-storybook-deploy)
-- [네트워크 기초 정리](https://www.fantajin.com/blog/computer-science-network)
 <!-- BLOG-POST-LIST:END -->
 
 
