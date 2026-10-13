@@ -29,11 +29,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [사내 환경변수 관리의 어려움을 해결하는 서비스 제작기](https://www.fantajin.com/blog/%EC%82%AC%EB%82%B4-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC-%EC%A0%9C%EC%9E%91%EA%B8%B0)
 - [수동 배포에서 CI/CD로: 코드 품질을 유지할 수 있는 개발 흐름 만들기](https://www.fantajin.com/blog/manual-deploy-to-cicd)
 - [사내 클로드코드 플러그인 구축 일지](https://www.fantajin.com/blog/%EC%82%AC%EB%82%B4-%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EC%9D%BC%EC%A7%80)
 - [Sentry 도입 일지](https://www.fantajin.com/blog/sentry-%EB%8F%84%EC%9E%85-%EC%9D%BC%EC%A7%80)
 - [RAG 구현 기록](https://www.fantajin.com/blog/rag-%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%A1%9D)
-- [2026년 2월, 첫 이직을 하며](https://www.fantajin.com/blog/%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80%EA%B0%80)
 <!-- BLOG-POST-LIST:END -->
 
 
